@@ -9,7 +9,7 @@ info:
 servers:
   - url: https://graph.microsoft.com/v1.0
 paths:
-  /education/me:
+  /me:
     description: Provides operations to manage the me property of the microsoft.graph.educationRoot entity.
     get:
       tags:
